@@ -1,8 +1,12 @@
 # NoteCards
-noteCards is a straightforward notes web application.
-# noteCards
 
-noteCards is a simple notes web application built with HTML, CSS, JavaScript, Node.js, Express, and MongoDB.
+noteCards is a straightforward notes web application. Users can easily register, log in, and manage notes with basic operations like add, view, update, and delete. The search bar functionality enables quick access to specific notes, ensuring a hassle-free note-taking experience.
+
+Key Features:
+1) Registration/Login: Secure and personalized user accounts for a tailored note-taking experience.
+2) Add/View/Update/Delete Note: Easily create, access, edit, and remove notes with straightforward controls.
+3) Search Bar Functionality: Efficiently locate specific notes using the intuitive search bar.
+4) noteCards is a simple notes web application built with HTML, CSS, JavaScript, Node.js, Express, and MongoDB.
 
 ## Prerequisites
 
